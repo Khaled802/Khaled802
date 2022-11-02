@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Ahmed</h1>
 <h3 align="center">I'm a backend developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, design-patterns**
 
 - 💬 Ask me about **python, c++, problem solving and DSA**
 
