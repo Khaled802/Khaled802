@@ -23,4 +23,11 @@
   <li><a href='https://github.com/Khaled802/elvis_store.git'>elvis store</a> using php to feal with emails</li>
   <li><a href='https://github.com/Khaled802/drf_try'>drf</a> blog using django rest framework</li>
 <ol>
+  
+ <h3 align="left">Implementation:</h3>
+<ol>
+  <li><a href='https://github.com/Khaled802/segment-tree'>segemet tree</a> using python</li>
+
+<ol>
+
 
