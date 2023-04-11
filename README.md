@@ -22,6 +22,8 @@
   <li><a href='https://github.com/Khaled802/base_project'>blog</a> using django</li>
   <li><a href='https://github.com/Khaled802/elvis_store.git'>elvis store</a> using php to feal with emails</li>
   <li><a href='https://github.com/Khaled802/drf_try'>drf</a> blog using django rest framework</li>
+  <li><a href='https://github.com/Khaled802/pomodoro.git'>Pomodoro</a> it is gui app using python</li>
+  <li><a href='https://github.com/Khaled802/password-manager-start.git'>password manager</a> it generates and saves the passwords of websites </li>
 <ol>
 
   
