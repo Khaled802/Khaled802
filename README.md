@@ -46,6 +46,7 @@
 <ol>
   <li><a href='https://github.com/Khaled802/segment-tree'>segemet tree</a> using python</li>
   <li><a href='https://github.com/Khaled802/Data_Structure'>linear data structure</a> implementation of the linear data structure with powerful methods using c++</li>
+  <li><a href='https://github.com/Khaled802/shannon_algorithem'>Shannon algorithm</a> that is used in compression </li>
 <ol>
 
 
