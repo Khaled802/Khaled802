@@ -28,7 +28,7 @@
 <h3 align="left">Projects:</h3>
 <ol>
   
-  <li><a href='https://github.com/Khaled802/base_project'>HoRus</a> it is graduation project using Django</li>
+  <li><a href='https://github.com/Mariam-Elhdad/Horus'>HoRus</a> it is graduation project using Django</li>
   <li><a href='https://github.com/Khaled802/base_project'>blog</a> using django</li>
   <li><a href='https://github.com/Khaled802/blog_with_node'>blog api</a> using express.js</li>
   <li><a href='https://github.com/Khaled802/elvis_store.git'>elvis store</a> using php to feal with emails</li>
