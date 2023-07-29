@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khaled 💫 About Me:
-I'm a backend developer<br>I’m currently learning nodejs, express, design-patterns<br>Ask me about python, c++, problem solving, backend and DSA<br>How to reach me khaled_ahmed0@outlook.com
+<h1 align="center">Hi 👋, I'm Khaled 💫 About Me:</h1>
+🌱I'm a backend developer<br>📔I’m currently learning nodejs, express, design-patterns<br>☑️Ask me about python, c++, problem solving, backend and DSA<br>📧How to reach me khaled_ahmed0@outlook.com
 
 
 ## 🌐 Socials:
