@@ -31,6 +31,7 @@
   <li><a href='https://github.com/Mariam-Elhdad/Horus'>HoRus</a> it is graduation project using Django</li>
   <li><a href='https://github.com/Khaled802/base_project'>blog</a> using django</li>
   <li><a href='https://github.com/Khaled802/blog_with_node'>blog api</a> using express.js</li>
+  <li><a href='https://github.com/Khaled802/wasit'>wasit api</a> an e-commerce using typescript (in progress)</li>
   <li><a href='https://github.com/Khaled802/bookmark'>Bookmark api</a> using nest.js</li>
   <li><a href='https://github.com/Khaled802/elvis_store.git'>elvis store</a> using php to feal with emails</li>
    <li><a href='https://github.com/Khaled802/natiga'>natiga</a> It is "degrees of secondary school" with seating_number or name with large data </li>
