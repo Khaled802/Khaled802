@@ -41,8 +41,9 @@
   <li><a href='https://github.com/Khaled802/store.git'>store</a> is api to get products an filter them</li>
   <li><a href='https://github.com/Khaled802/pomodoro.git'>Pomodoro</a> it is gui app using python</li>
   <li><a href='https://github.com/Khaled802/password-manager-start.git'>password manager</a> it generates and saves the passwords of websites </li>
-  <li><a href='https://github.com/Khaled802/us-states-game-start'>U.S. game</a> it is game for guessing the U.S. states and show them at map </lic>
-<ol>
+  <li><a href='https://github.com/Khaled802/us-states-game-start'>U.S. game</a> it is game for guessing the U.S. states and show them at map </li>
+  <li><a href='[https://github.com/Khaled802/us-states-game-start](https://github.com/Khaled802/hangman)'>Hangman</a> it is game for guessing words in Python using dataclass </li>
+</ol>
 
   
 <h3 align="left">Implementation:</h3>
@@ -51,6 +52,6 @@
   <li><a href='https://github.com/Khaled802/Data_Structure'>linear data structure</a> implementation of the linear data structure with powerful methods using c++</li>
   <li><a href='https://github.com/Khaled802/shannon_algorithem'>Shannon algorithm</a> that is used in compression </li>
   <li><a href='https://github.com/Khaled802/logger'>logger </a>(microservice) using RabbitMQ</li>
-<ol>
+<o/l>
 
 
