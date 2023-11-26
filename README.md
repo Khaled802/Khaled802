@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled 💫 About Me:</h1>
-🌱I'm a backend developer<br>📔I’m currently learning nodejs, express, design-patterns<br>☑️Ask me about python, c++, problem solving, backend and DSA<br>📧How to reach me khaled_ahmed0@outlook.com
+🌱I'm a backend developer<br>📔I’m currently learning spring-boot, design-patterns and mircorservices<br>☑️Ask me about python, c++, problem solving, backend and DSA<br>📧How to reach me khaled_ahmed0@outlook.com
 
 
 ## 🌐 Socials:
@@ -52,6 +52,8 @@
   <li><a href='https://github.com/Khaled802/Data_Structure'>linear data structure</a> implementation of the linear data structure with powerful methods using c++</li>
   <li><a href='https://github.com/Khaled802/shannon_algorithem'>Shannon algorithm</a> that is used in compression </li>
   <li><a href='https://github.com/Khaled802/logger'>logger </a>(microservice) using RabbitMQ</li>
+  <li><a href='https://github.com/Khaled802/DuckGame'>Strategy pattern</a>from head first design pattern using JAVA</li>
+  <li><a href='https://github.com/Khaled802/weather-o-rama'>Observer pattern</a>from head first design pattern using JAVA</li>
 <o/l>
 
 
