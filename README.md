@@ -30,6 +30,22 @@
   
   <li><a href='https://github.com/Mariam-Elhdad/Horus'>HoRus</a> it is graduation project using Django</li>
   <li><a href='https://github.com/Khaled802/base_project'>blog</a> using django</li>
+  <li> Challenge Microservices 
+    <ol>
+      <li>
+        <a href='https://github.com/Khaled802/multiplication'>Challenge</a>
+      </li>
+      <li>
+        <a href='https://github.com/Khaled802/gemification'>Gamification</a>
+      </li>
+      <li>
+        <a href='https://github.com/Khaled802/challenge_gateway'>gateway</a>
+      </li>
+      <li>
+        <a href='https://github.com/Khaled802/challenges-frontend'>frontend</a>
+      </li>
+    </ol>
+  </li>
   <li><a href='https://github.com/Khaled802/blog_with_node'>blog api</a> using express.js</li>
   <li><a href='https://github.com/Khaled802/todo_simple_thymeleaf'>Todo website</a> using Spring & thymeleaf</li>
   <li><a href='https://github.com/Khaled802/wasit'>wasit api</a> an e-commerce using typescript (in progress)</li>
