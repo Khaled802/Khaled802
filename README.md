@@ -72,6 +72,7 @@
   <li><a href='https://github.com/Khaled802/logger'>logger </a>(microservice) using RabbitMQ</li>
   <li><a href='https://github.com/Khaled802/DuckGame'>Strategy pattern</a>from head first design pattern using JAVA</li>
   <li><a href='https://github.com/Khaled802/weather-o-rama'>Observer pattern</a>from head first design pattern using JAVA</li>
-<o/l>
+  <li><a href='https://github.com/Khaled802/startbuzz'>Decorator pattern</a>from head first design pattern using JAVA</li>
+</ol>
 
 
