@@ -46,6 +46,16 @@
       </li>
     </ol>
   </li>
+  <li> Todo Full stack 
+    <ol>
+      <li>
+        <a href='https://github.com/Khaled802/todoApi-for-fullstack'>Api Using Spring</a>
+      </li>
+      <li>
+        <a href='https://github.com/Khaled802/todo-app'>Frontend using react</a>
+      </li>
+    </ol>
+  </li>
   <li><a href='https://github.com/Khaled802/blog_with_node'>blog api</a> using express.js</li>
   <li><a href='https://github.com/Khaled802/todo_simple_thymeleaf'>Todo website</a> using Spring & thymeleaf</li>
   <li><a href='https://github.com/Khaled802/wasit'>wasit api</a> an e-commerce using typescript (in progress)</li>
